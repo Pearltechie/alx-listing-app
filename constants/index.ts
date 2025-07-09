@@ -47,7 +47,7 @@ export const SAMPLE_PROPERTIES: Property[] = [
     id: '2',
     title: 'Modern City Apartment',
     description: 'Stylish apartment in the heart of the city',
-    image: '/assets/apartment.jpg',
+    image: 'public/assets/Image container alx.png',
     price: 85,
     location: 'Downtown, NY',
     rating: 4.6,
